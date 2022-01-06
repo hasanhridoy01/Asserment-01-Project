@@ -1,0 +1,191 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.flexiable-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.first-width{
+    width: 45%;
+    margin-left: 12%;
+    margin-top: 5%;
+}
+.first-width h1{
+    font-size: 65px;
+    margin-bottom: 0px;
+}
+.first-width h1{
+    border-image: linear-gradient(aquamarine, blue);
+    border-image-slice: 1;
+    border-left: 5px solid;
+    margin-right: 5px;
+}
+.first-width h2{
+    border-image: linear-gradient(aquamarine, blue);
+    border-image-slice: 1;
+    border-left: 5px solid;
+    margin-right: 5px;
+}
+.first-width h2{
+    font-size: 65px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    color: aquamarine;
+}
+.first-width p{
+    padding-right: 16%;
+    margin-bottom: 30px;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.second-width img{
+    height: 560px;
+    width: 460px;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+.mission-area{
+    margin-bottom: 90px;
+}
+.mission-area h1{
+    text-align: center;
+    font-size: 50px;
+}
+.mission-area h1 span{
+    color: aquamarine;
+}
+.mission-content{
+    display: flex;
+}
+.mission-item1{
+    background-color: rgb(210, 247, 242);
+    width: 25%;
+    margin-left: 10%;
+    height: 350px;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+.mission-item1 img{
+    height: 170px;
+    width: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.mission-item2{
+    background-color: rgb(250, 207, 214);
+    width: 25%;
+    margin-right: 2%;
+    margin-left: 2%;
+    height: 350px;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+.mission-item2 img{
+    height: 170px;
+    width: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.mission-item3{
+    background-color: rgb(208, 236, 150);
+    width: 25%;
+    margin-right: 10%;
+    height: 350px;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+.mission-item3 img{
+    height: 170px;
+    width: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.develop-area{
+    display: flex;
+    margin-bottom: 70px;
+}
+.develop-item1{
+    margin-left: 10%;
+    margin-right: 4%;
+}
+.develop-item1 img{
+    height: 440px;
+    width: 440px;
+}
+.develop-item2{
+    margin-right: 5%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.develop-item2 h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+    display: inline
+}
+.develop-item2 h2{
+    font-size: 40px;
+    margin-top: 0px;
+}
+.develop-item2 p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.community-area{
+    display: flex;
+    margin-bottom: 80px;
+}
+.community-item1{
+    margin-right: 2%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.community-item1 h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+    display: inline
+}
+.community-item1 h2{
+    font-size: 40px;
+    margin-top: 0px;
+}
+.community-item1 p{
+    font-size: 20px;
+}
+.community-item2{
+    margin-left: 4%;
+    margin-right: 12%;
+}
+.community-item2 img{
+    height: 400px;
+    width: 400px;
+}
+footer{
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    padding: 30px 0px 10px 0px;
+}
+.text1{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 35px;
+}
+.text1 span{
+    color: aquamarine;
+}
+.text2{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
